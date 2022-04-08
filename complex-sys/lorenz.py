@@ -12,7 +12,7 @@ def f(state, t):
     return sigma * (y - x), x * (rho - z) - y, x * y - beta * z  # Derivatives
 
 state0 = [1.0, 1.0, 1.0]
-t = np.arange(0.0, 40.0, 0.01)
+t = np.arange(0.0, 50.0, 0.01)
 
 states = odeint(f, state0, t)
 
