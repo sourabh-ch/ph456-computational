@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.24)  27 MAR 2022 23:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.24)  19 APR 2022 23:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -230,25 +230,25 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 ) (/Users/sourabh/Projects/ph456-computational/lab-2/report/lab2.aux)
 \openout1 = `lab2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-Package hyperref Info: Link coloring OFF on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+Package hyperref Info: Link coloring OFF on input line 21.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -258,9 +258,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count280
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
  (/Users/sourabh/Projects/ph456-computational/lab-2/report/lab2.out) (/Users/sourabh/Projects/ph456-computational/lab-2/report/lab2.out)
 \@outlinefile=\write3
 \openout3 = `lab2.out'.
@@ -275,14 +275,14 @@ LaTeX Info: Redefining \nameref on input line 22.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23582pt, 56.90552pt)
+* v-part:(T,H,B)=(28.45274pt, 731.23582pt, 85.35828pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=483.69684pt
 * \textheight=731.23582pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
+* \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -318,25 +318,62 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-)) [1
+))
+<./images//q-2.png, id=29, 852.5451pt x 432.8973pt>
+File: ./images//q-2.png Graphic file (type png)
+<use ./images//q-2.png>
+Package pdftex.def Info: ./images//q-2.png  used on input line 56.
+(pdftex.def)             Requested size: 386.95894pt x 196.48637pt.
+ [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/sourabh/Projects/ph456-computational/lab-2/report/lab2.aux)
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/sourabh/Projects/ph456-computational/lab-2/report/./images//q-2.png>]
+<./images//q-5a.png, id=51, 376.5267pt x 249.3315pt>
+File: ./images//q-5a.png Graphic file (type png)
+<use ./images//q-5a.png>
+Package pdftex.def Info: ./images//q-5a.png  used on input line 93.
+(pdftex.def)             Requested size: 217.6621pt x 144.1368pt.
+<./images//q-5b.png, id=52, 373.395pt x 249.3315pt>
+File: ./images//q-5b.png Graphic file (type png)
+<use ./images//q-5b.png>
+Package pdftex.def Info: ./images//q-5b.png  used on input line 94.
+(pdftex.def)             Requested size: 217.6621pt x 145.34282pt.
+<./images//q-6.png, id=53, 428.3202pt x 432.8973pt>
+File: ./images//q-6.png Graphic file (type png)
+<use ./images//q-6.png>
+Package pdftex.def Info: ./images//q-6.png  used on input line 109.
+(pdftex.def)             Requested size: 241.84842pt x 244.4355pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 118--118
+\OT1/cmr/m/n/10 for num-ber of counts N in thou-sands on x-axis.
+ []
+
+[2 </Users/sourabh/Projects/ph456-computational/lab-2/report/./images//q-5a.png> </Users/sourabh/Projects/ph456-computational/lab-2/report/./images//q-5b.png>] [3 </Users/sourabh/Projects/ph456-computational/lab-2/report/./images//q-6.png>] (/Users/sourabh/Projects/ph456-computational/lab-2/report/lab2.aux)
 Package rerunfilecheck Info: File `lab2.out' has not changed.
-(rerunfilecheck)             Checksum: A55B6C4E0D3E2E3D5C3652EAFF2CBBAF;1197.
+(rerunfilecheck)             Checksum: 007B3AE4B4C7135B560CB95A6A3F1CA1;1255.
  ) 
 Here is how much of TeX's memory you used:
- 8868 strings out of 478994
- 130488 string characters out of 5858184
- 433420 words of memory out of 5000000
- 26247 multiletter control sequences out of 15000+600000
- 407744 words of font info for 42 fonts, out of 8000000 for 9000
+ 8912 strings out of 478994
+ 131145 string characters out of 5858184
+ 441270 words of memory out of 5000000
+ 26276 multiletter control sequences out of 15000+600000
+ 408198 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,6n,74p,442b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on /Users/sourabh/Projects/ph456-computational/lab-2/report/lab2.pdf (1 page, 50674 bytes).
+ 71i,9n,74p,705b,351s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on /Users/sourabh/Projects/ph456-computational/lab-2/report/lab2.pdf (3 pages, 374034 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 110 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
+ 69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
